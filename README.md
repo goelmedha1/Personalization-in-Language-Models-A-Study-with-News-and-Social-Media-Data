@@ -1,0 +1,4 @@
+Language models (LMs) have revolutionized natural language processing, displaying remarkable proficiency in generating contextually relevant text. This study investigates the efficacy of FLAN-T5, a language model, in personalizing content categorization across diverse datasets comprising news articles and social media tweets. Leveraging datasets from the LaMP repository, specifically "Personalized News Categorization" and "Personalized Tweet Paraphrasing," the study explores FLAN- T5's adaptability in discerning linguistic backgrounds within varying textual contexts. Through the utilization of the OpenAI API, FLAN-T5's responses to user-based queries are analyzed to assess its categorization capabilities in news and social media domains.
+
+
+Please refer the final project report for more details
